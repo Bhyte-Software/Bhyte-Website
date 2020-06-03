@@ -1919,7 +1919,7 @@ Video Section
 
 
       .home-banner-area3 {
-        background: url(../Stockpictures/adult-1853483_1920.jpg) center;
+        background: url(../img/banner/team-banner.jpg) center;
         background-size: cover;
         background-color: black; }
         .home-banner-area3 .banner-img {
@@ -1941,7 +1941,7 @@ Video Section
 
 
             .home-banner-area4 {
-              background: url(../Stockpictures/web-1012467_1920.jpg) center;
+              background: url(../img/banner/about-banner.jpg) center;
               background-size: cover; }
               .home-banner-area4 .banner-img {
                 text-align: right; }
@@ -2883,7 +2883,7 @@ Video Section
     z-index: 1; }
     .blog_banner .banner_inner .overlay {
       background-size: auto;
-      background: url(../Stockpictures/blogging-428955_1920.jpg) no-repeat scroll center center;
+      background: url(../img/banner/blog-banner.jpg) no-repeat scroll center center;
       opacity: .5;
       height: 125%;
       position: absolute;

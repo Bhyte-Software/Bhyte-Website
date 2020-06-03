@@ -1,5 +1,5 @@
 <?php
-    $to = 'support@bhyte.com';
+    $to = 'support@bhyte.com'; // Create Professional Email 
     $firstname = $_POST["fname"];
     $email= $_POST["email"];
     $text= $_POST["message"];
